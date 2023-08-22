@@ -1,7 +1,19 @@
 {
   "name": "scss-color-scheme",
+  "description": "css-color-scheme + mixin",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "keywords": [
+    "css",
+    "mixin",
+    "color",
+    "colors",
+    "include",
+    "scheme"
+  ],
+  "author": "ViktorS",
+  "license": "ISC",
+  "main": "lib/index.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
